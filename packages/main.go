@@ -3,7 +3,7 @@ package main
 import "fmt"
 import "math/rand"
 import "./utils"
-import "github.com/rammurat/golang-learning/blob/master/packages/live-utils"
+import "github.com/rammurat/golang-learning/packages/live-utils"
 
 func main() {
 	// print random number

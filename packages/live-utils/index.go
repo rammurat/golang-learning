@@ -1,3 +1,3 @@
 package liveUtil
 
-var LangId = 100
+var LangId = 1
