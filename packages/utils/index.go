@@ -1,3 +1,3 @@
-package ram
+package localUtil
 
 var StoreId = 100
