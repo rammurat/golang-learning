@@ -1,15 +1,13 @@
 package main
 
-import (
-	"fmt"
-	"math/rand"
-	"utils"
-)
+import "fmt"
+import "math/rand"
+import "./utils"
 
 func main() {
-	// print random number 
+	// print random number
 	fmt.Println(rand.Intn(100))
 
 	// print variable from your package
-	fmt.Println(utils.StoreId)
+	fmt.Println(ram.StoreId)
 }

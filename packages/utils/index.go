@@ -1,5 +1,3 @@
-package utils
+package ram
 
 var StoreId = 100
-
-
